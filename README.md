@@ -1,10 +1,11 @@
 # Pertemuan-12
 # OOP
+<img align="center" alt="Coding" width="300" src="https://media.tenor.com/njW0wtQjBnkAAAAi/ali.gif">
 
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | Alvin alfandy |
+| **Nama** | Ali mubaroq |
 | **NIM** | 312310452 |
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
