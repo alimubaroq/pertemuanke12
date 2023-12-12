@@ -4,8 +4,8 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | Delfyno dwi prastyo |
-| **NIM** | 312310480 |
+| **Nama** | Alvin alfandy |
+| **NIM** | 312310452 |
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
 
